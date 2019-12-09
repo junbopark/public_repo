@@ -19,18 +19,6 @@ flags.DEFINE_string(
     "gcp_project", default="ox-lab-junbo-park",
     help="Project name of the Cloud TPU-enabled project" )
 
-# Model specific parameters
-GCS_BUCKET   = "ox-lab-junbo-park-tpu"
-DATASET_NAME = "small_sample"
-CURR_TIME    = datetime.now().strftime("%Y%m%d-%H%m%S")
-MODEL_NAME   = "{}_{}".format(DATASET_NAME, CURR_TIME)
-
-flags.DEFINE_string(
-    "data_dir", default="gs://{}/dataset/{}".format(GCS_BUCKET, DATASET_NAME),
-    help="GCS directory where the dataset is stored")
-flags.DEFINE_string(
-    "model_dir", default="gs://{}/model_dir/{}/".format(GCS_BUCKET, MODEL_NAME),
-    help="GCS directory where the model will be stored")
 flags.DEFINE_integer("train_steps", 10, "Total number of training steps")
 flags.DEFINE_integer("eval_steps", 0, "Total number of evaluation steps")
 flags.DEFINE_float("learning_rate", 0.05, "Learning rate")
