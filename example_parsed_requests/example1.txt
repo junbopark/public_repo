@@ -1,0 +1,575 @@
+features {
+  feature {
+    key: "adunit_id"
+    value {
+      bytes_list {
+        value: "na"
+      }
+    }
+  }
+  feature {
+    key: "adunit_pubrev"
+    value {
+      bytes_list {
+        value: "100"
+      }
+    }
+  }
+  feature {
+    key: "allimps"
+    value {
+    }
+  }
+  feature {
+    key: "app_bundle"
+    value {
+    }
+  }
+  feature {
+    key: "app_cat"
+    value {
+    }
+  }
+  feature {
+    key: "app_content_len"
+    value {
+    }
+  }
+  feature {
+    key: "app_id"
+    value {
+    }
+  }
+  feature {
+    key: "app_name"
+    value {
+    }
+  }
+  feature {
+    key: "app_publisher_id"
+    value {
+    }
+  }
+  feature {
+    key: "app_publisher_name"
+    value {
+    }
+  }
+  feature {
+    key: "app_storeurl"
+    value {
+    }
+  }
+  feature {
+    key: "auction_type"
+    value {
+      bytes_list {
+        value: "1"
+      }
+    }
+  }
+  feature {
+    key: "badv"
+    value {
+    }
+  }
+  feature {
+    key: "bapp"
+    value {
+    }
+  }
+  feature {
+    key: "bcat"
+    value {
+    }
+  }
+  feature {
+    key: "cur"
+    value {
+      bytes_list {
+        value: "[\"USD\"]"
+      }
+    }
+  }
+  feature {
+    key: "data_age"
+    value {
+      bytes_list {
+        value: "0"
+      }
+    }
+  }
+  feature {
+    key: "device_devicetype"
+    value {
+      bytes_list {
+        value: "2"
+      }
+    }
+  }
+  feature {
+    key: "device_dnt"
+    value {
+      bytes_list {
+        value: "0"
+      }
+    }
+  }
+  feature {
+    key: "device_geo_accuracy"
+    value {
+    }
+  }
+  feature {
+    key: "device_geo_city"
+    value {
+    }
+  }
+  feature {
+    key: "device_geo_country"
+    value {
+    }
+  }
+  feature {
+    key: "device_geo_lat"
+    value {
+    }
+  }
+  feature {
+    key: "device_geo_lon"
+    value {
+    }
+  }
+  feature {
+    key: "device_geo_metro"
+    value {
+    }
+  }
+  feature {
+    key: "device_geo_region"
+    value {
+    }
+  }
+  feature {
+    key: "device_geo_type"
+    value {
+    }
+  }
+  feature {
+    key: "device_geo_utcoffset"
+    value {
+    }
+  }
+  feature {
+    key: "device_h"
+    value {
+    }
+  }
+  feature {
+    key: "device_language"
+    value {
+      bytes_list {
+        value: "en"
+      }
+    }
+  }
+  feature {
+    key: "device_model"
+    value {
+    }
+  }
+  feature {
+    key: "device_os"
+    value {
+    }
+  }
+  feature {
+    key: "device_osv"
+    value {
+    }
+  }
+  feature {
+    key: "device_ppi"
+    value {
+    }
+  }
+  feature {
+    key: "device_pxratio"
+    value {
+    }
+  }
+  feature {
+    key: "device_ua"
+    value {
+      bytes_list {
+        value: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363"
+      }
+    }
+  }
+  feature {
+    key: "device_w"
+    value {
+    }
+  }
+  feature {
+    key: "exchange_name"
+    value {
+      bytes_list {
+        value: "na"
+      }
+    }
+  }
+  feature {
+    key: "imp_banner_battr"
+    value {
+    }
+  }
+  feature {
+    key: "imp_banner_expdir"
+    value {
+    }
+  }
+  feature {
+    key: "imp_banner_h"
+    value {
+      bytes_list {
+        value: "600"
+      }
+    }
+  }
+  feature {
+    key: "imp_banner_hmax"
+    value {
+    }
+  }
+  feature {
+    key: "imp_banner_hmin"
+    value {
+    }
+  }
+  feature {
+    key: "imp_banner_id"
+    value {
+    }
+  }
+  feature {
+    key: "imp_banner_pos"
+    value {
+      bytes_list {
+        value: "1"
+      }
+    }
+  }
+  feature {
+    key: "imp_banner_topframe"
+    value {
+    }
+  }
+  feature {
+    key: "imp_banner_w"
+    value {
+      bytes_list {
+        value: "300"
+      }
+    }
+  }
+  feature {
+    key: "imp_banner_wmax"
+    value {
+    }
+  }
+  feature {
+    key: "imp_banner_wmin"
+    value {
+    }
+  }
+  feature {
+    key: "imp_bidfloor"
+    value {
+      bytes_list {
+        value: "0.3"
+      }
+    }
+  }
+  feature {
+    key: "imp_bidfloorcur"
+    value {
+      bytes_list {
+        value: "USD"
+      }
+    }
+  }
+  feature {
+    key: "imp_displaymanager"
+    value {
+    }
+  }
+  feature {
+    key: "imp_displaymanagerver"
+    value {
+    }
+  }
+  feature {
+    key: "imp_id"
+    value {
+      bytes_list {
+        value: "5ce66c368c624717a50a5952ff0bb783-1"
+      }
+    }
+  }
+  feature {
+    key: "imp_instl"
+    value {
+    }
+  }
+  feature {
+    key: "imp_tagid"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_api"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_ext"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_h"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_linearity"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_maxbitrate"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_maxduration"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_maxextended"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_mimes"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_minbitrate"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_minduration"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_placement"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_playbackmethod"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_protocol"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_protocols"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_skipafter"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_skipmin"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_startdelay"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_w"
+    value {
+    }
+  }
+  feature {
+    key: "isImpression"
+    value {
+      bytes_list {
+        value: "0"
+      }
+    }
+  }
+  feature {
+    key: "region"
+    value {
+      bytes_list {
+        value: "na"
+      }
+    }
+  }
+  feature {
+    key: "regs_ext"
+    value {
+      bytes_list {
+        value: "{\"gdpr\":0}"
+      }
+    }
+  }
+  feature {
+    key: "site_cat"
+    value {
+    }
+  }
+  feature {
+    key: "site_content_len"
+    value {
+    }
+  }
+  feature {
+    key: "site_domain"
+    value {
+    }
+  }
+  feature {
+    key: "site_id"
+    value {
+    }
+  }
+  feature {
+    key: "site_name"
+    value {
+    }
+  }
+  feature {
+    key: "site_page"
+    value {
+      bytes_list {
+        value: "https://mail.yahoo.com"
+      }
+    }
+  }
+  feature {
+    key: "site_pagecat"
+    value {
+    }
+  }
+  feature {
+    key: "site_publisher_cat"
+    value {
+    }
+  }
+  feature {
+    key: "site_publisher_domain"
+    value {
+    }
+  }
+  feature {
+    key: "site_publisher_id"
+    value {
+      bytes_list {
+        value: "20459933223"
+      }
+    }
+  }
+  feature {
+    key: "site_publisher_name"
+    value {
+    }
+  }
+  feature {
+    key: "site_ref"
+    value {
+    }
+  }
+  feature {
+    key: "source_fd"
+    value {
+    }
+  }
+  feature {
+    key: "source_pchain"
+    value {
+    }
+  }
+  feature {
+    key: "test"
+    value {
+    }
+  }
+  feature {
+    key: "tmax"
+    value {
+      bytes_list {
+        value: "200"
+      }
+    }
+  }
+  feature {
+    key: "transaction_hour"
+    value {
+      bytes_list {
+        value: "0"
+      }
+    }
+  }
+  feature {
+    key: "transaction_minute"
+    value {
+      bytes_list {
+        value: "0"
+      }
+    }
+  }
+  feature {
+    key: "transaction_second"
+    value {
+      bytes_list {
+        value: "0"
+      }
+    }
+  }
+  feature {
+    key: "user_buyeruid"
+    value {
+      bytes_list {
+        value: "a9933445-936b-4daa-854f-1e8e2702383f"
+      }
+    }
+  }
+  feature {
+    key: "user_geo_lat"
+    value {
+    }
+  }
+  feature {
+    key: "user_geo_lon"
+    value {
+    }
+  }
+}

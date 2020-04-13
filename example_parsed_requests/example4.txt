@@ -1,0 +1,617 @@
+features {
+  feature {
+    key: "adunit_id"
+    value {
+      bytes_list {
+        value: "na"
+      }
+    }
+  }
+  feature {
+    key: "adunit_pubrev"
+    value {
+      bytes_list {
+        value: "100"
+      }
+    }
+  }
+  feature {
+    key: "allimps"
+    value {
+    }
+  }
+  feature {
+    key: "app_bundle"
+    value {
+      bytes_list {
+        value: "com.pixel.art.coloring.color.number"
+      }
+    }
+  }
+  feature {
+    key: "app_cat"
+    value {
+      bytes_list {
+        value: "[\"IAB9\",\"IAB9-5\",\"IAB9-30\"]"
+      }
+    }
+  }
+  feature {
+    key: "app_content_len"
+    value {
+    }
+  }
+  feature {
+    key: "app_id"
+    value {
+      bytes_list {
+        value: "746505ee3092ab23fa61bdf3e0acc53c"
+      }
+    }
+  }
+  feature {
+    key: "app_name"
+    value {
+      bytes_list {
+        value: "Happy Color\342\204\242 \342\200\223 Color by Number"
+      }
+    }
+  }
+  feature {
+    key: "app_publisher_id"
+    value {
+      bytes_list {
+        value: "10148"
+      }
+    }
+  }
+  feature {
+    key: "app_publisher_name"
+    value {
+      bytes_list {
+        value: "X-Flow"
+      }
+    }
+  }
+  feature {
+    key: "app_storeurl"
+    value {
+      bytes_list {
+        value: "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&axb=137"
+      }
+    }
+  }
+  feature {
+    key: "auction_type"
+    value {
+      bytes_list {
+        value: "1"
+      }
+    }
+  }
+  feature {
+    key: "badv"
+    value {
+      bytes_list {
+        value: "[\"137lopaxb.com\"]"
+      }
+    }
+  }
+  feature {
+    key: "bapp"
+    value {
+    }
+  }
+  feature {
+    key: "bcat"
+    value {
+      bytes_list {
+        value: "[\"IAB19-3\",\"IAB3-7\",\"IAB13-4\",\"IAB13-5\",\"IAB13-6\",\"IAB13-8\",\"IAB13-9\",\"IAB13-10\",\"IAB13-11\",\"IAB7-28\",\"IAB7-30\",\"IAB7-29\",\"IAB7-34\",\"IAB7-41\",\"IAB7-42\",\"IAB7-43\",\"IAB7-44\",\"IAB14-3\",\"IAB14-8\",\"IAB16-7\",\"IAB23\",\"IAB23-1\",\"IAB23-2\",\"IAB23-3\",\"IAB23-4\",\"IAB23-5\",\"IAB23-6\",\"IAB23-7\",\"IAB23-8\",\"IAB23-9\",\"IAB23-10\",\"IAB25\",\"IAB25-1\",\"IAB25-6\",\"IAB25-7\",\"IAB18-2\",\"IAB14-1\",\"IAB7-39\",\"IAB7-31\",\"IAB7-45\",\"IAB6-6\",\"IAB8-5\",\"IAB7-5\",\"IAB8-18\",\"IAB11-4\",\"IAB13-1\",\"IAB13-2\",\"IAB13-7\",\"IAB7-28\",\"IAB7-42\",\"IAB17-18\",\"IAB25-1\",\"IAB25-2\",\"IAB25-3\",\"IAB25-4\",\"IAB25-5\",\"IAB26\",\"IAB26-1\",\"IAB26-2\",\"IAB26-3\",\"IAB26-4\",\"IAB9-9\"]"
+      }
+    }
+  }
+  feature {
+    key: "cur"
+    value {
+      bytes_list {
+        value: "[\"USD\"]"
+      }
+    }
+  }
+  feature {
+    key: "data_age"
+    value {
+      bytes_list {
+        value: "0"
+      }
+    }
+  }
+  feature {
+    key: "device_devicetype"
+    value {
+      bytes_list {
+        value: "4"
+      }
+    }
+  }
+  feature {
+    key: "device_dnt"
+    value {
+      bytes_list {
+        value: "0"
+      }
+    }
+  }
+  feature {
+    key: "device_geo_accuracy"
+    value {
+    }
+  }
+  feature {
+    key: "device_geo_city"
+    value {
+    }
+  }
+  feature {
+    key: "device_geo_country"
+    value {
+      bytes_list {
+        value: "USA"
+      }
+    }
+  }
+  feature {
+    key: "device_geo_lat"
+    value {
+      bytes_list {
+        value: "37.750999450683594"
+      }
+    }
+  }
+  feature {
+    key: "device_geo_lon"
+    value {
+      bytes_list {
+        value: "-97.8219985961914"
+      }
+    }
+  }
+  feature {
+    key: "device_geo_metro"
+    value {
+    }
+  }
+  feature {
+    key: "device_geo_region"
+    value {
+    }
+  }
+  feature {
+    key: "device_geo_type"
+    value {
+      bytes_list {
+        value: "2"
+      }
+    }
+  }
+  feature {
+    key: "device_geo_utcoffset"
+    value {
+    }
+  }
+  feature {
+    key: "device_h"
+    value {
+    }
+  }
+  feature {
+    key: "device_language"
+    value {
+      bytes_list {
+        value: "en"
+      }
+    }
+  }
+  feature {
+    key: "device_model"
+    value {
+      bytes_list {
+        value: "SM-G960U"
+      }
+    }
+  }
+  feature {
+    key: "device_os"
+    value {
+      bytes_list {
+        value: "Android"
+      }
+    }
+  }
+  feature {
+    key: "device_osv"
+    value {
+      bytes_list {
+        value: "10.0"
+      }
+    }
+  }
+  feature {
+    key: "device_ppi"
+    value {
+    }
+  }
+  feature {
+    key: "device_pxratio"
+    value {
+    }
+  }
+  feature {
+    key: "device_ua"
+    value {
+      bytes_list {
+        value: "Mozilla/5.0 (Linux; Android 10; SM-G960U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.162 Mobile Safari/537.36"
+      }
+    }
+  }
+  feature {
+    key: "device_w"
+    value {
+    }
+  }
+  feature {
+    key: "exchange_name"
+    value {
+      bytes_list {
+        value: "na"
+      }
+    }
+  }
+  feature {
+    key: "imp_banner_battr"
+    value {
+      bytes_list {
+        value: "[3,6,7,9,10,14,17]"
+      }
+    }
+  }
+  feature {
+    key: "imp_banner_expdir"
+    value {
+    }
+  }
+  feature {
+    key: "imp_banner_h"
+    value {
+      bytes_list {
+        value: "50"
+      }
+    }
+  }
+  feature {
+    key: "imp_banner_hmax"
+    value {
+    }
+  }
+  feature {
+    key: "imp_banner_hmin"
+    value {
+    }
+  }
+  feature {
+    key: "imp_banner_id"
+    value {
+    }
+  }
+  feature {
+    key: "imp_banner_pos"
+    value {
+      bytes_list {
+        value: "4"
+      }
+    }
+  }
+  feature {
+    key: "imp_banner_topframe"
+    value {
+    }
+  }
+  feature {
+    key: "imp_banner_w"
+    value {
+      bytes_list {
+        value: "320"
+      }
+    }
+  }
+  feature {
+    key: "imp_banner_wmax"
+    value {
+    }
+  }
+  feature {
+    key: "imp_banner_wmin"
+    value {
+    }
+  }
+  feature {
+    key: "imp_bidfloor"
+    value {
+      bytes_list {
+        value: "0.3002"
+      }
+    }
+  }
+  feature {
+    key: "imp_bidfloorcur"
+    value {
+      bytes_list {
+        value: "USD"
+      }
+    }
+  }
+  feature {
+    key: "imp_displaymanager"
+    value {
+    }
+  }
+  feature {
+    key: "imp_displaymanagerver"
+    value {
+    }
+  }
+  feature {
+    key: "imp_id"
+    value {
+      bytes_list {
+        value: "1"
+      }
+    }
+  }
+  feature {
+    key: "imp_instl"
+    value {
+    }
+  }
+  feature {
+    key: "imp_tagid"
+    value {
+      bytes_list {
+        value: "166726"
+      }
+    }
+  }
+  feature {
+    key: "imp_video_api"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_ext"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_h"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_linearity"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_maxbitrate"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_maxduration"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_maxextended"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_mimes"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_minbitrate"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_minduration"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_placement"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_playbackmethod"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_protocol"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_protocols"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_skipafter"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_skipmin"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_startdelay"
+    value {
+    }
+  }
+  feature {
+    key: "imp_video_w"
+    value {
+    }
+  }
+  feature {
+    key: "isImpression"
+    value {
+      bytes_list {
+        value: "0"
+      }
+    }
+  }
+  feature {
+    key: "region"
+    value {
+      bytes_list {
+        value: "na"
+      }
+    }
+  }
+  feature {
+    key: "regs_ext"
+    value {
+    }
+  }
+  feature {
+    key: "site_cat"
+    value {
+    }
+  }
+  feature {
+    key: "site_content_len"
+    value {
+    }
+  }
+  feature {
+    key: "site_domain"
+    value {
+    }
+  }
+  feature {
+    key: "site_id"
+    value {
+    }
+  }
+  feature {
+    key: "site_name"
+    value {
+    }
+  }
+  feature {
+    key: "site_page"
+    value {
+    }
+  }
+  feature {
+    key: "site_pagecat"
+    value {
+    }
+  }
+  feature {
+    key: "site_publisher_cat"
+    value {
+    }
+  }
+  feature {
+    key: "site_publisher_domain"
+    value {
+    }
+  }
+  feature {
+    key: "site_publisher_id"
+    value {
+    }
+  }
+  feature {
+    key: "site_publisher_name"
+    value {
+    }
+  }
+  feature {
+    key: "site_ref"
+    value {
+    }
+  }
+  feature {
+    key: "source_fd"
+    value {
+    }
+  }
+  feature {
+    key: "source_pchain"
+    value {
+    }
+  }
+  feature {
+    key: "test"
+    value {
+    }
+  }
+  feature {
+    key: "tmax"
+    value {
+      bytes_list {
+        value: "250"
+      }
+    }
+  }
+  feature {
+    key: "transaction_hour"
+    value {
+      bytes_list {
+        value: "0"
+      }
+    }
+  }
+  feature {
+    key: "transaction_minute"
+    value {
+      bytes_list {
+        value: "0"
+      }
+    }
+  }
+  feature {
+    key: "transaction_second"
+    value {
+      bytes_list {
+        value: "0"
+      }
+    }
+  }
+  feature {
+    key: "user_buyeruid"
+    value {
+    }
+  }
+  feature {
+    key: "user_geo_lat"
+    value {
+    }
+  }
+  feature {
+    key: "user_geo_lon"
+    value {
+    }
+  }
+}
